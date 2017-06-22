@@ -1,0 +1,82 @@
+#top-nav{
+    width: 100%;
+    height: 65px;
+    background: black;
+}
+#top-nav p{
+    color: blue;
+    font-size: 1.5em;
+}
+#top-nav span{
+    color: red;
+}
+#top-nav nav, #top-nav p{
+    line-height: 65px;
+}
+#top-nav nav a{
+    color: white;
+    font-size: 1.25em;
+    transition: linear .5s;
+    padding-right: 8px;
+}
+#top-nav nav a:hover{
+    color: red;
+    text-decoration: none;
+}
+#site-title{
+    text-align: center;
+    background: #777;
+    padding: 25px 0px;
+    margin-top: 0px;
+}
+#three-images{
+    margin: 40px 0px 50px 0px;
+}
+#three-images img{
+    width: 100%;
+    border: 3px solid blue;
+}
+#three-images h4{
+    color: firebrick;
+}
+#pone{
+    text-align: justify;
+}
+#ptwo{
+    text-align: center
+}
+#pthree{
+    text-align: right;
+}
+span{
+    color: blue;
+}
+#three-images button{
+    float: right;
+}
+#TotallyLegal{
+    background: black;
+    width: 100%;
+    color: white;
+}
+form{
+    text-align: center;
+}
+hr{
+    border-top-style: dashed;
+}
+#warning{
+    text-align: center;
+}
+iframe{
+    margin: 50px 0px;
+    border: 2px solid white;
+    box-shadow: 5px 5px 10px;
+}
+footer{
+    background: gray;
+    padding: 20px 0px;
+}
+footer p{
+    text-align: center;
+}
