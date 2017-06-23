@@ -1,0 +1,69 @@
+.navbar-brand{
+    color: aqua!important;
+}
+.navbar-brand span{
+    color: blue!important;
+}.icon-bar{
+    background-color: cyan!important;
+}
+#site-title{
+    text-align: center;
+    background-color: #000000;
+    color: aqua;
+    margin-top: -20px;
+    padding: 10px 0px;
+}
+#images{
+    background: #222;
+    padding: 20px 0px;
+}
+#images img{
+    width: 100%;
+}
+#images h4{
+    text-align: center;
+    color: red;
+}
+#images p{
+    text-align: justify;
+    color: cyan;
+}
+#images .ptwo{
+    text-align: center;
+}
+#images hr{
+    border-top: 2px dotted cyan;
+}
+#images .ptwo{
+    
+}
+/*
+#images button{
+    float: right;
+}*/
+#legal img{
+    width: 100%;
+}
+#legal hr{
+    border-top: 2px dotted black;
+}
+#illegal-enter{
+    background: black;
+    padding: 20px 0px
+}
+#illegal-enter p{
+    color: aqua;
+}
+#illegal-enter hr{
+    border-top: 2px solid blue;
+}
+footer{
+    text-align: center;
+    background-color: #222;
+    color: aqua;
+    padding: 15px 0px;
+}
+iframe{
+    width: 100%;
+    margin: 10px 0px;
+}
